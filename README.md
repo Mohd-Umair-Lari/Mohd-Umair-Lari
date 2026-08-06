@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Dealing with bugs since 2017<br>📚 I'm currently persuing my B.Tech in CSE (AI&ML)<br>🎯 Goals: To learn as fast as possible and as more as i can<br>🎲 Fun fact: Good isn't in yourself, Good is something you create</p>
+<p align="left">✨ Dealing with bugs since 2018<br>📚 I'm currently persuing my B.Tech in CSE (AI&ML)<br>🎯 Goals: To learn as fast as possible and as more as i can<br>🎲 Fun fact: Good isn't in yourself, Good is something you create</p>
 
 ###
 
