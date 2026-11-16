@@ -74,13 +74,8 @@ I build practical software across AI-assisted applications, backend systems, e-c
 ## Connect
 
 - GitHub: [@Mohd-Umair-Lari](https://github.com/Mohd-Umair-Lari)
-- LinkedIn: add your profile URL here when ready.
+- LinkedIn: [@Umair-Lari](www.linkedin.com/in/mohd-umair-lari-872594288)
 
-## Notes for publishing
-
-1. Copy this file to the root of the public repository named `Mohd-Umair-Lari`.
-2. Replace the LinkedIn placeholder with your verified profile URL, if you want it displayed.
-3. To use a banner, add `assets/profile-banner.png` to the profile repository and uncomment the banner block near the top.
 
 <div align="center">
 
