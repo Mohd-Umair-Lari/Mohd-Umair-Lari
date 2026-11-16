@@ -1,107 +1,83 @@
-<h1 align="left">Hey,  I am Lari</h1>
+<div align="center">
 
-###
+# Hey, I'm Umair Lari 👋
 
-<p align="left">My name is Mohd Umair Lari and I'm a Software Engineer,</p>
+### Software Engineer · AI/ML Builder · Cybersecurity Explorer
 
-###
+I build practical software across AI-assisted applications, backend systems, e-commerce, and security tooling.
 
-<br clear="both">
+[![GitHub](https://img.shields.io/badge/GitHub-Mohd--Umair--Lari-181717?style=for-the-badge&logo=github)](https://github.com/Mohd-Umair-Lari)
+[![Profile views](https://komarev.com/ghpvc/?username=Mohd-Umair-Lari&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/Mohd-Umair-Lari)
 
-<h2 align="left">About me</h2>
+</div>
 
-###
+<!-- Optional banner:
+     Add your own image at `assets/profile-banner.png`, then uncomment:
+     <img src="./assets/profile-banner.png" alt="Umair Lari profile banner" width="100%" />
+     Recommended size: 1500 × 500 px. Keep the design dark, clean, and readable.
+-->
 
-<p align="left">✨ Dealing with bugs since 2018<br>📚 I'm currently persuing my B.Tech in CSE (AI&ML)<br>🎯 Goals: To learn as fast as possible and as more as i can<br>🎲 Fun fact: Good isn't in yourself, Good is something you create</p>
+## About me
 
-###
+- 🎓 Pursuing a B.Tech in Computer Science & Engineering (AI & ML).
+- 💻 Writing software and solving bugs since 2018.
+- 🤖 Interested in applied AI, intelligent automation, and backend engineering.
+- 🔐 Exploring vulnerability assessment and security automation.
+- 🚀 Learning by building, testing, and shipping useful products.
+
+## Featured projects
+
+| Project | What it is | Repository |
+| --- | --- | --- |
+| **VAPT-MCP** | A Python-based vulnerability assessment framework with passive and approval-gated active assessment workflows, MCP integrations, scope controls, and structured reporting. | [View repository](https://github.com/Mohd-Umair-Lari/VAPT-MCP) |
+| **Finpass-AI** | A Next.js application for AI-assisted financial planning and investment guidance for Indian investors, using MongoDB Atlas, Groq, authentication, and Vercel deployment guidance. | [View repository](https://github.com/Mohd-Umair-Lari/Finpass-AI) |
+| **Offer-Bridge** | A Next.js marketplace connecting buyers with cardholders for credit-card offers, with matching, Razorpay payment workflows, tracking, notifications, and refund handling. | [View repository](https://github.com/Mohd-Umair-Lari/Offer-Bridge) |
+| **Lari-Industries** | A full-stack Next.js e-commerce application for industrial leather safety equipment and related products, including catalog, checkout, Razorpay integration, and deployment configuration. | [View repository](https://github.com/Mohd-Umair-Lari/Lari-Industries) |
+
+## Tech stack
+
+### Languages and frameworks
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Data, infrastructure, and tools
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+> The stack above reflects technologies visible in the supplied repositories and the original profile draft. It is intentionally not a complete list of every dependency.
+
+## GitHub activity
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouzar.maurodesouzar&left_color=grey&right_color=green&left_text=Acknowledges"  />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mohd-Umair-Lari&show_icons=true&hide_border=true&rank_icon=github" alt="Mohd Umair Lari's GitHub statistics" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohd-Umair-Lari&layout=compact&hide_border=true" alt="Most used languages" height="165" />
+
 </div>
 
-###
+## Connect
 
-<h2 align="left">I play with</h2>
+- GitHub: [@Mohd-Umair-Lari](https://github.com/Mohd-Umair-Lari)
+- LinkedIn: add your profile URL here when ready.
 
-###
+## Notes for publishing
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
+1. Copy this file to the root of the public repository named `Mohd-Umair-Lari`.
+2. Replace the LinkedIn placeholder with your verified profile URL, if you want it displayed.
+3. To use a banner, add `assets/profile-banner.png` to the profile repository and uncomment the banner block near the top.
+
+<div align="center">
+
+_Build thoughtfully. Learn continuously. Ship useful things._
+
 </div>
-
-###
-
-<br clear="both">
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=50&section=header&reversal=false&text=Connect%20via........&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/mohd-umair-lari-872594288" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/umair_lari_?s=09" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="mailto:umairlari0786@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://discordapp.com/users/956582685885735002" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/umair_lari_?igsh=bG92MGh3bG5oNjlu" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
