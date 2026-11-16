@@ -56,14 +56,13 @@ I build practical software across AI-assisted applications, backend systems, e-c
 
 > The stack above reflects technologies visible in the supplied repositories and the original profile draft. It is intentionally not a complete list of every dependency.
 
-## GitHub activity
+## 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Mohd-Umair-Lari&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Mohd-Umair-Lari&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mohd-Umair-Lari&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mohd-Umair-Lari&show_icons=true&hide_border=true&rank_icon=github" alt="Mohd Umair Lari's GitHub statistics" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohd-Umair-Lari&layout=compact&hide_border=true" alt="Most used languages" height="165" />
-
-</div>
+---
+[![](https://komarev.com/ghpvc/?username=Mohd-Umair-Lari&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## Connect
 
