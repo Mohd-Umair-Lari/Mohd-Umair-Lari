@@ -20,7 +20,7 @@ I build practical software across AI-assisted applications, backend systems, e-c
 ## About me
 
 - 🎓 Pursuing a B.Tech in Computer Science & Engineering (AI & ML).
-- 💻 Writing software and solving bugs since 2018.
+- 💻 Writing software and solving bugs since 2020.
 - 🤖 Interested in applied AI, intelligent automation, and backend engineering.
 - 🔐 Exploring vulnerability assessment and security automation.
 - 🚀 Learning by building, testing, and shipping useful products.
