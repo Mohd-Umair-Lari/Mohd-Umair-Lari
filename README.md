@@ -54,6 +54,13 @@ I build practical software across AI-assisted applications, backend systems, e-c
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
+### AI, ML, and intelligent systems
+
+![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=groq&logoColor=white)
+![LLM Applications](https://img.shields.io/badge/LLM%20Applications-412991?style=for-the-badge&logo=openai&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-6E40C9?style=for-the-badge&logo=robotframework&logoColor=white)
+![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-5B5BD6?style=for-the-badge&logo=protocols&logoColor=white)
+
 > The stack above reflects technologies visible in the supplied repositories and the original profile draft. It is intentionally not a complete list of every dependency.
 
 ## 📊 GitHub Stats:
