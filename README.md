@@ -2,7 +2,7 @@
 
 # Umair Lari
 
-### Software Engineer · AI/ML Builder · Cybersecurity Explorer
+### Software Engineer · AI/ML Builder · Framework Explorer
 
 I build practical software across AI-assisted applications, backend systems, e-commerce, and security tooling.
 
