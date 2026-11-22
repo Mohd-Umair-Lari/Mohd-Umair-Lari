@@ -4,7 +4,7 @@
 
 ### Software Engineer · AI/ML Builder · Framework Explorer
 
-I build practical software across AI-assisted applications, backend systems, e-commerce, and security tooling.
+software across AI-assisted applications, backend systems, e-commerce, and security tooling.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Mohd--Umair--Lari-181717?style=for-the-badge&logo=github)](https://github.com/Mohd-Umair-Lari)
 [![Profile views](https://komarev.com/ghpvc/?username=Mohd-Umair-Lari&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/Mohd-Umair-Lari)
