@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Umair Lari
+# Umair Lari
 
 ### Software Engineer · AI/ML Builder · Cybersecurity Explorer
 
